@@ -326,3 +326,5 @@ PyInstaller 打包的 exe 可能被部分杀毒软件误报，将工具箱添加
 MIT License
 
 ---
+## 效果展示   
+<img width="894" height="613" alt="屏幕截图 2026-06-21 092420" src="https://github.com/user-attachments/assets/d0c839b0-1e54-45df-b7bb-c32b18792193" />
