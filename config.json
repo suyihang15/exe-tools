@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "theme": {
+    "mode": "dark",
+    "accent_color": "#6c5ce7",
+    "font_family": "Microsoft YaHei",
+    "font_size": 10,
+    "card_border_radius": 12,
+    "card_size": "medium"
+  },
+  "categories": [
+    "全部",
+    "开发工具",
+    "设计",
+    "游戏",
+    "办公",
+    "其他"
+  ],
+  "apps": [
+    {
+      "name": "Plain Craft Launcher 2",
+      "exe_path": "apps\\Plain Craft Launcher 2.exe",
+      "icon_path": "app_icons\\icon_c7348f0b.png",
+      "description": "Plain Craft Launcher 启动器",
+      "category": "开发工具",
+      "id": "b69a092c",
+      "card_size": "medium",
+      "hidden": false,
+      "sort_order": 0
+    }
+  ],
+  "window": {
+    "width": 1200,
+    "height": 800,
+    "x": 254,
+    "y": 80
+  }
+}
